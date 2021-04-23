@@ -4,7 +4,7 @@
 
 当前只在维护 Unicom 的部分，移除了部分过期活动
 
-## 当前状态
+## 当前状态`
 
 每天能获得 20+ 积分以及 2GB+ 日流量，建议配合 [UnicomTask](https://github.com/srcrs/UnicomTask) 食用。
 
